@@ -1,6 +1,7 @@
 package cuentas;
 
 public class CCuenta {
+	/** Comentarios para el javadoc*/
 	private String nombre;
     private String cuenta;
     private double saldo;
